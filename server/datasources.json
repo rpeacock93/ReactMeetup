@@ -1,0 +1,7 @@
+{
+  "db": {
+    "url": "mongodb://ryguy:VioletSpice93@ds151853.mlab.com:51853/loopbackz",
+    "name": "db",
+    "connector": "loopback-connector-mongodb"
+  }
+}
